@@ -1,0 +1,33 @@
+.third{
+	border-bottom:1px #c3cad0 solid;
+}
+.body_1 p{
+	margin:10px;
+}
+.body_1 a{
+	color:black;
+}
+
+.body_2{
+	background:#f4f4f4;
+}
+.body_2 .f1{
+	float:left;
+	margin-top:15px;
+	margin-left:22px;
+	margin-bottom:15px;
+}
+.body_2 .d1{
+	width:222px;
+	background:white;
+}
+.body_2 h2{
+	margin:0 8px;
+	height:40px;
+	line-height:50px;
+}
+.body_2 p{
+	height:80px;
+	margin:8px;
+	font-size:12px;
+}

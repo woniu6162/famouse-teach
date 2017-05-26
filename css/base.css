@@ -1,0 +1,14 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.head_1,.head_2,.body_1,.body_2{
+	width:1000px;  
+	margin:0 auto;
+	overflow:hidden;
+}
+
+a{
+	text-decoration:none;
+}
